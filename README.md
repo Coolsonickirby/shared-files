@@ -1,3 +1,5 @@
+# ARCROPOLIS NOW SUPPORTS SHARING! CREATE A `share-to-vanilla` or `share-to-added` FIELD IN THE `config.json`. FOR ALL INTENTS AND PURPOSES, THIS PLUGIN IS DEAD.
+
 # Shared Files
 Share Files using ARCropolis API
 
